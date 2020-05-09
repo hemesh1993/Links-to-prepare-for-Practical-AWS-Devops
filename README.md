@@ -1,4 +1,4 @@
-# aws-devops-professional-notes
+# Links to prepare for practical AWS-devops
 
 # CodeCommit :thumbsup:
 https://docs.google.com/document/d/1Q5RUojAF7nn0lgmyx0a2Og6Vgk-TWdVEUjA7fzWcKMI/edit?usp=sharing
